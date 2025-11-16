@@ -83,6 +83,7 @@ salary
 commission_pct
 manager_id
 department_id
+```
 ```sql
 update Employees 
 set SALARY = SALARY * 2 
